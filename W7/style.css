@@ -182,7 +182,7 @@ footer {
       rgba(0,0,0,0.25), 
       rgba(0,0,0,0.25)
     ),
-    url("2486.jpg");                  /* ← 換成你的圖片檔名 */
+    url("圖片/2486.jpg");                  /* ← 換成你的圖片檔名 */
   background-size: cover;             /* 充滿區塊、不變形 */
   background-position: center;        /* 居中對齊 */
   color: #fff;                        /* 讓文字變白 */
